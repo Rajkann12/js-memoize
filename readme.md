@@ -1,8 +1,8 @@
-#Memoization Utility in JavaScript
+# Memoization Utility in JavaScript
 
 - This project implements a generic memoize function in JavaScript that optimizes computational functions by caching results of previous executions. This technique improves performance for functions that are called repeatedly with the same inputs.
 
-##How It Works
+## How It Works
 
 - Cache Initialization: A Map object is used to store cached results.
 
