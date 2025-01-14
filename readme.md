@@ -23,12 +23,12 @@
     default: 6.213ms
     calculating
     15
-    default: 0.88ms
+    default: 0.339ms
     from memo
     15
-    default: 0.339ms
+    default: 0.880ms
 
-Sometimes you can see 2nd time calculated results are faster than memized values that is due to follow reason
+can 2nd calculated data be faster than memoized due to follow reason?
 
 - Warm-Up Phase:
 
